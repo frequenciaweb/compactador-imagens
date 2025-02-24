@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "compactador", "compactador\compactador.csproj", "{5082DABA-2D5F-268A-A5A9-F45612F304F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5082DABA-2D5F-268A-A5A9-F45612F304F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5082DABA-2D5F-268A-A5A9-F45612F304F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5082DABA-2D5F-268A-A5A9-F45612F304F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5082DABA-2D5F-268A-A5A9-F45612F304F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12561658-9A08-4925-A06F-654EA1D8572B}
+	EndGlobalSection
+EndGlobal
